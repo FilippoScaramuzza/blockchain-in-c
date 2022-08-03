@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "in.h": "c",
+        "blockchain.h": "c"
+    }
+}
